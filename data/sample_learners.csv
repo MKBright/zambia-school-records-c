@@ -1,0 +1,12 @@
+learner_number,full_name,grade,class,gender,guardian_phone,t1_english,t1_mathematics,t1_integrated_science,t1_social_studies,t1_civic_education,t1_religious_education,t1_computer_studies,t1_business_studies,t2_english,t2_mathematics,t2_integrated_science,t2_social_studies,t2_civic_education,t2_religious_education,t2_computer_studies,t2_business_studies,t3_english,t3_mathematics,t3_integrated_science,t3_social_studies,t3_civic_education,t3_religious_education,t3_computer_studies,t3_business_studies
+2410-001,Luyando Banda,10,A,M,0971000001,78,82,74,69,80,71,88,64,80,79,76,72,82,74,85,70,,,,,,,,
+2410-002,Mwansa Phiri,10,A,F,0972000002,70,66,72,68,74,69,71,65,72,68,74,70,76,71,73,67,,,,,,,,
+2410-003,Kondwani Tembo,10,A,M,0963000003,61,58,63,55,60,64,59,62,64,60,66,58,63,65,61,60,,,,,,,,
+2410-004,Thandiwe Zulu,10,A,F,0954000004,81,77,84,79,86,80,90,76,84,80,86,82,88,83,91,79,,,,,,,,
+2410-005,Joseph Mulenga,10,A,M,0975000005,48,52,44,50,47,55,41,49,51,55,48,52,50,58,46,53,,,,,,,,
+2410-006,Chanda Mwale,10,A,F,0976000006,70,70,70,70,70,70,70,65,71,69,73,68,72,70,74,66,,,,,,,,
+2410-007,Natasha Daka,10,B,F,0967000007,66,71,63,70,68,74,77,60,,,,,,,,,,,,,,,,
+2410-008,Peter Sakala,10,B,M,0958000008,58,62,55,60,57,64,70,52,,,,,,,,,,,,,,,,
+2410-009,Bupe Ngoma,10,B,F,0979000009,55,60,58,,62,57,64,50,,,,,,,,,,,,,,,,
+2408-001,Chipo Kalaba,8,A,F,0761000010,73,70,75,68,72,80,85,66,,,,,,,,,,,,,,,,
+2412-001,Blessings Kunda,12,A,M,0772000011,86,88,84,79,82,90,93,81,,,,,,,,,,,,,,,,
