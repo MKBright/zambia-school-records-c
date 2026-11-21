@@ -1,0 +1,19 @@
+# Compiled program and object files
+build/
+*.o
+*.obj
+*.exe
+*.out
+
+# Working register created by `make run` or by saving from the menu.
+# The fictional sample in data/sample_learners.csv stays in git.
+data/learners.csv
+
+# Class reports saved from the menu
+reports/
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
